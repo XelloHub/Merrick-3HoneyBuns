@@ -59,21 +59,15 @@ if (window.location.pathname === "/index.html" || window.location.pathname === "
     setInterval(clock, 1000);
     
     const options = [
-      "Right-Click to access more features",
-      "Set a custom background in settings.",
-      "Tab Cloaking is highly recommended",
-      "About:Blank Cloak is highly recommended",
-      "The #1 site unblocker, with 90K users daily",
-      "The #1 site unblocker, with 90K users daily",
-      "Finally, an actual site unblocker that works fast!",
-      "Do not share this link with anyone.",
-      "Join our community at discord.gg/unblocking",
-      "Join our community at discord.gg/unblocking",
-      "© Copyright 2024 Doge Network. All Rights Reserved.",
-      "Customize Doge by going to Settings > Themes",
-      "Want more links? Our Discord provides tons of links!",
-      "Want more links? Our Discord provides tons of links!",
-      "Want more links? Our Discord provides tons of links!",
+      "Merrick <3 Honeybuns",
+      "Merrick Loves Honeybuns",
+      "We ship Merrick and Honeybuns",
+      "The Honeybun Cult",
+      "440 Calories!",
+      "Don't share this link *ahem* MERRICK",
+      "C'mon Biggie get back to work!",
+      "Let's go Merrick, Let's go!",
+      "If you want a honeybun.. think about a gym membership",
     ];
     
     function getRandomOption() {
