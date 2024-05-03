@@ -1,6 +1,6 @@
 (function() {
-  var defaultTitle = 'Doge | V4';
-  var defaultIcon = '/assets/img/doge.jpg';
+  var defaultTitle = 'Honeybuns | V4';
+  var defaultIcon = '/assets/img/images.png';
 
   var storedTitle = localStorage.getItem('tabTitle');
   var storedIcon = localStorage.getItem('tabIcon');
@@ -32,7 +32,7 @@ var newIcon = storedIcon || defaultIcon;
 var clickoff = localStorage.getItem('clickoffCloak');
 
 if (storedIcon === '/assets/img/doge.jpg' || storedIcon === null || storedIcon === '') {
-    localStorage.setItem('tabIcon', '/assets/img/doge.jpg');
+    localStorage.setItem('tabIcon', '/assets/img/images.png');
 }
 
 var storedIcon = localStorage.getItem('tabIcon');
